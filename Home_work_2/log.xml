@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-09T10:23:46.687901400Z</date>
+  <millis>1678357426687</millis>
+  <nanos>901400</nanos>
+  <sequence>0</sequence>
+  <logger>Home_work_2.Task_1</logger>
+  <level>INFO</level>
+  <class>Home_work_2.Task_1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info message </message>
+</record>
+</log>
